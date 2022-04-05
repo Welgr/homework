@@ -1,0 +1,8 @@
+C:\Users\Egor\source\repos\Homework4_1\bin\Debug\Homework4_1.exe.config
+C:\Users\Egor\source\repos\Homework4_1\bin\Debug\Homework4_1.exe
+C:\Users\Egor\source\repos\Homework4_1\bin\Debug\Homework4_1.pdb
+C:\Users\Egor\source\repos\Homework4_1\obj\Debug\Homework4_1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Homework4_1\obj\Debug\Homework4_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Homework4_1\obj\Debug\Homework4_1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Homework4_1\obj\Debug\Homework4_1.exe
+C:\Users\Egor\source\repos\Homework4_1\obj\Debug\Homework4_1.pdb
